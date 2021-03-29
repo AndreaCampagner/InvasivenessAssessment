@@ -1,0 +1,2 @@
+# InvasivenessAssessment
+ Supporting data for publication: Comput Biol Med. 2020 Jun;121:103796. doi: 10.1016/j.compbiomed.2020.103796. Epub 2020 May 16.  Assessment and prediction of spine surgery invasiveness with machine learning techniques  Andrea Campagner, Pedro Berjano, Claudio Lamartina, Francesco Langella, Giovanni Lombardi, Federico Cabitza  PMID: 32568677 DOI: 10.1016/j.compbiomed.2020.103796
